@@ -1,0 +1,155 @@
+/* Base layout */
+.app {
+  max-width: 520px;
+  margin: 60px auto;
+  font-family: system-ui, sans-serif;
+  padding: 16px;
+}
+
+.title {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+/* Input */
+.inputSection {
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.inputRow {
+  display: flex;
+  gap: 8px;
+}
+
+.input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  transition: border 0.2s ease, box-shadow 0.2s ease;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #6b7cff;
+  box-shadow: 0 0 0 3px rgba(107, 124, 255, 0.2);
+}
+
+.button {
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: #6b7cff;
+  color: white;
+  transition: transform 0.15s ease, background 0.2s ease;
+}
+
+.button:hover {
+  transform: translateY(-1px);
+  background: #5566ff;
+}
+
+/* List */
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Task item */
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  margin-bottom: 8px;
+  border-radius: 10px;
+  background: #f7f7f7;
+
+  /* entry animation */
+  animation: fadeIn 0.25s ease forwards;
+
+  transition: transform 0.2s ease, opacity 0.2s ease, background 0.2s ease;
+}
+
+.task:hover {
+  transform: translateX(3px);
+  background: #f0f0f0;
+}
+
+.taskLabel {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  cursor: pointer;
+  flex: 1;
+}
+
+/* completed state */
+.completed .text {
+  text-decoration: line-through;
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+}
+
+/* delete button */
+.delete {
+  border: none;
+  background: transparent;
+  font-size: 18px;
+  cursor: pointer;
+  opacity: 0.6;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.delete:hover,
+.delete:focus {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+/* exit animation */
+.removing {
+  animation: slideOut 0.25s ease forwards;
+}
+
+/* animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideOut {
+  to {
+    opacity: 0;
+    transform: translateX(40px);
+    height: 0;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Accessibility: disable all motion */
+@media (prefers-reduced-motion: reduce) {
+  .task,
+  .button,
+  .input,
+  .delete {
+    animation: none !important;
+    transition: none !important;
+  }
+}

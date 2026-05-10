@@ -1,0 +1,1 @@
+Please create a basic todo app using React and Vite. The app should let me add a task, see all my tasks in a list, mark them done, and delete them when finished.

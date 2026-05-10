@@ -1,0 +1,1 @@
+Create a simple todo app using React and Vite. Users should be able to add new tasks, check them as complete, and delete completed or unwanted tasks. Use useState hook.

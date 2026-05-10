@@ -1,0 +1,34 @@
+
+I need a modern Todo List application built with React using vite.
+
+Core functional requirements:
+- Add todo via input + Enter key (trim whitespace, prevent empty adds)
+- List of todos with:
+  - Checkbox to toggle completed → strikethrough + muted text/color when done
+  - Delete button per item
+- Active items count ("X items left")
+- Filters: All / Active / Completed (persistent across refresh if possible)
+- "Clear completed" button (only visible when ≥1 completed)
+
+Non-functional requirements:
+- Use functional components + hooks only (no classes)
+- Prefer useReducer + useContext for state management (instead of lifting everything into useState in App) to demonstrate scalable patterns — even for this small app
+- Split into logical files/components:
+  - src/App.jsx (orchestration + layout)
+  - src/components/TodoInput.jsx
+  - src/components/TodoItem.jsx (memoized)
+  - src/components/TodoList.jsx
+  - src/components/TodoFilters.jsx
+  - src/context/TodoContext.tsx (provider + reducer + custom hook useTodos)
+- Memoize where it matters: React.memo on TodoItem, useCallback/useMemo for handlers & derived state
+- Make the reducer pure and exhaustive (use discriminated unions for actions)
+- Accessibility: semantic HTML, aria-labels, keyboard navigation (focus management after delete/add, roving tabindex if needed), high contrast
+- Styling: plain CSS Modules (no Tailwind, no emotion/styled) — keep it clean
+- Error handling: graceful localStorage failures, no crashes
+- Bonus polish (if low effort): optimistic toggle/delete, undo last delete (via toast? simple), or sort by insertion order
+
+Output format:
+1. Full folder structure with file paths
+2. Complete code for each relevant file (focus on src/ changes)
+
+Generate the complete code

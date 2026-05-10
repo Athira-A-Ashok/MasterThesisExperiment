@@ -1,0 +1,141 @@
+/* GLOBAL */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #1f1c2c, #928dab);
+  height: 100vh;
+}
+
+/* CONTAINER */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* CARD */
+.card {
+  width: 420px;
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+/* INPUT */
+.inputBox {
+  display: flex;
+  gap: 10px;
+}
+
+.inputBox input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.inputBox button {
+  padding: 10px 15px;
+  border: none;
+  background: #6c5ce7;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* FILTERS */
+.filters {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.filters button {
+  flex: 1;
+  margin: 2px;
+  padding: 5px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.filters .active {
+  background: #6c5ce7;
+  color: white;
+}
+
+/* COUNTER */
+.counter {
+  font-size: 12px;
+  color: gray;
+}
+
+/* TASK LIST */
+.list {
+  margin-top: 10px;
+}
+
+/* TASK ITEM */
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+  animation: slideIn 0.3s ease;
+}
+
+/* COMPLETED STYLE */
+.task.done .title {
+  text-decoration: line-through;
+  color: gray;
+}
+
+/* LEFT SIDE */
+.left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* ACTIONS */
+.actions button {
+  margin-left: 5px;
+  border: none;
+  padding: 5px 8px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* EDIT INPUT */
+.editInput {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* CLEAR BUTTON */
+.clear {
+  width: 100%;
+  margin-top: 10px;
+  background: crimson;
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* ANIMATIONS */
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

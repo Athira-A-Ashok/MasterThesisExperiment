@@ -1,0 +1,9 @@
+Build a React + Vite Todo app
+Use useReducer with clearly separated action types and strict immutability rules.
+Design task model with UUID, text, status, timestamps, and optional metadata field.
+Split logic into domain folders: state, UI, utils.
+Keep components pure 
+Use useMemo for computed views and filtering logic.
+Ensure input validation layer is isolated from UI components.
+Persist state using localStorage abstraction layer.
+Add accessibility support with semantic HTML structure.

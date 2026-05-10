@@ -1,0 +1,1 @@
+Create a React todo application using Vite. I need an input field at the top, a button to add tasks, a list below showing all tasks, and each task should have delete and complete options.

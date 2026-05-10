@@ -1,0 +1,9 @@
+
+I want a clean React todo app using Vite. use useState for managing state .
+
+Components I want: App, TaskList, TaskItem, and TaskInput
+Add tasks, toggle done, delete tasks, filter by All Active Completed, count remaining, localStorage
+Clean CSS — centered, readable, good spacing throughout
+No external UI libraries at all
+Keyboard accessible throughout
+Give a clean code with comments for each code 

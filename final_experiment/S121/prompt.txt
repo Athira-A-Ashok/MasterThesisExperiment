@@ -1,0 +1,20 @@
+Create a todo list app in React with Vite.
+Input area: Text input with placeholder "Type a task and press Enter"
+Tasks added on Enter key press or clicking Submit button
+Empty or blank input should be ignored completely
+Focus stays on input after adding a task
+
+List area: Checkbox appears on the left of each task
+Task description shown in the center
+Red trash button on the far right of each row
+Strike through styling applied to completed tasks
+Completed tasks also appear in grey faded color
+
+Footer area: Shows how many tasks are left incomplete
+Tabs to filter by All tasks, Active tasks, Completed tasks
+Clear all completed button only visible when completed tasks exist
+Placeholder message when the list is empty
+
+Data and styling: Each task stored using uuid
+Use Tailwind CSS for styling
+Give responsive layout

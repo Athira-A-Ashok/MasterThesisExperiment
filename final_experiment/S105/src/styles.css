@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+main {
+  width: 400px;
+}
+
+input {
+  padding: 8px;
+  width: 70%;
+}
+
+button {
+  margin-left: 5px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}

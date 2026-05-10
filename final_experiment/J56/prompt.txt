@@ -1,0 +1,1 @@
+Please write a React todo app using Vite. I need to add tasks from an input, see them in a list, mark them as completed, and delete them. Use hooks and functional components.

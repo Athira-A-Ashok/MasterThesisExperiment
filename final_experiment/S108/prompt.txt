@@ -1,0 +1,8 @@
+React Todo application 
+Use reducer pattern to manage all task state transitions
+Define strict task schema with id, text, completed, createdAt
+Separate UI into input, list, and item components
+Wrap list items in React.memo for performance optimization
+Use useMemo for filtered task computation logic
+Persist tasks in browser storage using a reusable hook
+Add accessibility support and keyboard interactions

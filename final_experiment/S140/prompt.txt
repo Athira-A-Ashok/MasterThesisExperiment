@@ -1,0 +1,18 @@
+
+I need a React Vite todo application with proper file organization. Break things into focused component files instead of one large file. Use a custom hook to separate all logic from the UI.
+Core features: Input with placeholder "Enter your task" adds on Enter key or Add button
+Empty or whitespace input is ignored completely
+Each task in the list shows a checkbox and a delete icon
+Completed tasks have strikethrough text and grey color
+Filter tabs at the bottom for All, Active, Completed
+Active task counter always visible in footer
+Clear completed button appearing when needed
+Friendly empty state when list is empty
+
+Technical requirements:Custom hook manages tasks array, active filter, and all event handlers
+Hook handles localStorage reading on mount and saving on changes
+Each component file is purely presentational
+CSS Modules used for component-specific styling
+Task objects have id from crypto.randomUUID(), text, completed
+Tailwind CSS for mobile responsive layout
+Write out every file in full

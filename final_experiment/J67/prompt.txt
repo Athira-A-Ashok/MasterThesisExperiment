@@ -1,0 +1,8 @@
+
+
+
+
+Make a todo app using React with Vite setup. 
+Basic features needed:
+- add task, delete task, mark the task after completing . Show completed tasks with strikethrough text CSS styling.
+

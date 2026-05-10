@@ -1,0 +1,20 @@
+Todo application using React and Vite with a strong focus on reusable hooks.
+Add, delete, and toggle completion of tasks
+Render tasks dynamically in a list
+Display count of incomplete tasks
+Filters: All / Active / Completed
+Clear completed tasks button
+
+The Architecture constraints: Extract logic into custom hooks:
+useTodos (task CRUD logic)
+useFilter (filter state + derived data)
+useLocalStorage (persistent storage)
+Components should remain presentational only
+Keep business logic outside UI
+
+Use functional components only
+Ensure hooks are reusable and cleanly separated
+Avoid duplication of logic across components
+Smooth updates without flicker
+Proper handling of empty task list
+Input resets after submission

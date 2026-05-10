@@ -1,0 +1,58 @@
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+.input-box {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.text {
+  cursor: pointer;
+}
+
+.done {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.delete {
+  background: red;
+  color: white;
+  border: none;
+}
+
+.empty {
+  text-align: center;
+  color: gray;
+}

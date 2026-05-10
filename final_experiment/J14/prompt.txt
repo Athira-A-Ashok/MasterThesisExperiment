@@ -1,0 +1,1 @@
+I need a basic todo list built in React using Vite. Features: add a task, delete a task, mark complete. Completed tasks should have a visual indicator like strikethrough or color change.

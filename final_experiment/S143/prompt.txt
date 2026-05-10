@@ -1,0 +1,16 @@
+Need a quick but solid Todo app in React (Vite).
+
+Users should be able to:
+
+Add tasks
+Mark them done
+Delete them
+
+Under the hood:
+
+useReducer for state
+Save everything in localStorage
+Prevent empty inputs
+Keep components modular
+
+Add simple filters (all/active/completed) and a count of remaining tasks. Keep performance in mind — don’t re-render everything unnecessarily.

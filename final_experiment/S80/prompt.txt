@@ -1,0 +1,31 @@
+Create a Todo Application using React.js.
+
+Requirements:
+- Use functional components and React Hooks (useState).
+- The application should allow a user to:
+  1. Add a task
+  2. Delete a task
+  3. Mark a task as "Completed"
+
+Features:
+- Display a list of tasks.
+- Each task should have:
+  - Task text
+  - A "Complete" button or checkbox
+  - A "Delete" button
+- Completed tasks should be visually different (e.g., strikethrough or faded).
+- Prevent adding empty tasks.
+
+
+- Keep the interface clean and minimal.
+- Use basic CSS for styling (or Tailwind if preferred).
+- Center the app on the page.
+
+Technical:
+- Use component-based structure (App, TodoList, TodoItem).
+- Manage state properly using useState.
+- Keep the code clean and readable.
+
+Output:
+- Provide full working React code.
+- Include all components.

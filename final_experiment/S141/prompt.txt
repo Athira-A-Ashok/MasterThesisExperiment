@@ -1,0 +1,9 @@
+Create a React Vite todo app with proper error handling built in from the start — not added later.
+
+Validate all inputs before state updates with user-friendly inline messages
+localStorage quota exceeded and parse errors handled gracefully with fallback
+Prevent adding empty, whitespace-only, or duplicate tasks
+Character limit on task title with live counter
+Error boundary wrapping the app for unexpected crashes
+
+Features: CRUD, filtering, count, localStorage.

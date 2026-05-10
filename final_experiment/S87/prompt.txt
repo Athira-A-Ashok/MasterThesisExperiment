@@ -1,0 +1,15 @@
+I need a production-ready Todo application built with React  
+Please implement the following in a single, well-commented App.jsx:
+Add new task via controlled input (Enter key + button)
+Toggle task completion with proper visual feedback (line-through + muted text)
+Delete task with trash icon
+Tasks stored in useState as array of objects { id, text, completed } using crypto.randomUUID()
+Fully responsive, accessible (proper labels, keyboard navigation, focus states)
+Tailwind CSS for styling with modern, minimal design
+Empty state illustration + “X tasks left” counter
+No unnecessary re-renders, clean separation of concerns
+Deliver:
+Full src/App.jsx code
+Required Tailwind configuration (tailwind.config.js + index.css)
+Exact terminal commands to spin up a fresh Vite project and run it immediately
+Prioritize readability, accessibility, and current React best practices.

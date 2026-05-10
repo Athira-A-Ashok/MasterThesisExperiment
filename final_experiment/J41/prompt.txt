@@ -1,0 +1,1 @@
+I am making a React todo app for practice. I need the following: input to type tasks, button to add, list showing all tasks, button to delete each, and checkbox to mark done.

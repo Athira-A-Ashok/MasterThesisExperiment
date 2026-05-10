@@ -1,0 +1,66 @@
+{
+  "participant": "S149",
+  "filesAnalysed": 8,
+  "totalLOC": 230,
+  "cyclomatic_complexity": 2.88,
+  "maintainability_index": 48.79,
+  "readability_score": 6.75,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 33,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 45.27,
+      "readabilityScore": 5.36
+    },
+    {
+      "file": "components\\StreamCard.jsx",
+      "lines": 29,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 48.29,
+      "readabilityScore": 5.92
+    },
+    {
+      "file": "components\\StreamFilter.jsx",
+      "lines": 21,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 51.7,
+      "readabilityScore": 6.84
+    },
+    {
+      "file": "components\\StreamMeta.jsx",
+      "lines": 15,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 55.62,
+      "readabilityScore": 5.97
+    },
+    {
+      "file": "components\\TaskStream.jsx",
+      "lines": 22,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 51.69,
+      "readabilityScore": 5.53
+    },
+    {
+      "file": "components\\TaskWriter.jsx",
+      "lines": 34,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 44.93,
+      "readabilityScore": 7.11
+    },
+    {
+      "file": "hooks\\useStream.js",
+      "lines": 58,
+      "cyclomaticComplexity": 10,
+      "maintainabilityIndex": 38.87,
+      "readabilityScore": 10.63
+    },
+    {
+      "file": "hooks\\useStreamStorage.js",
+      "lines": 18,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 53.97,
+      "readabilityScore": 6.67
+    }
+  ]
+}

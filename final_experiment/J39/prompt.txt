@@ -1,0 +1,1 @@
+Add a filter section with three buttons: All, Active, Completed. Update the Todo List so it only shows tasks based on the selected filter using React JS and Vite

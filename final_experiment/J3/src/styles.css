@@ -1,0 +1,22 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.todo {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+}
+
+.todo.done span {
+  text-decoration: line-through;
+  color: gray;
+}
+
+button {
+  cursor: pointer;
+}

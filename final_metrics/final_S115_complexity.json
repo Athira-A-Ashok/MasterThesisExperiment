@@ -1,0 +1,87 @@
+{
+  "participant": "S115",
+  "filesAnalysed": 11,
+  "totalLOC": 156,
+  "cyclomatic_complexity": 1.55,
+  "maintainability_index": 69.15,
+  "readability_score": 3.72,
+  "files": [
+    {
+      "file": "components\\TodoApp.jsx",
+      "lines": 38,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 44.69,
+      "readabilityScore": 4.52
+    },
+    {
+      "file": "components\\TodoInput.jsx",
+      "lines": 0,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 99.87,
+      "readabilityScore": 0
+    },
+    {
+      "file": "components\\TodoItem.jsx",
+      "lines": 0,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 99.87,
+      "readabilityScore": 0
+    },
+    {
+      "file": "components\\TodoList.jsx",
+      "lines": 0,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 99.87,
+      "readabilityScore": 0
+    },
+    {
+      "file": "components\\TodoStats.jsx",
+      "lines": 0,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 99.87,
+      "readabilityScore": 0
+    },
+    {
+      "file": "hooks\\useFilter.js",
+      "lines": 16,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 54.86,
+      "readabilityScore": 6.88
+    },
+    {
+      "file": "hooks\\useLocalStorage.js",
+      "lines": 20,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 51.82,
+      "readabilityScore": 7.29
+    },
+    {
+      "file": "hooks\\useSearch.js",
+      "lines": 14,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 55.59,
+      "readabilityScore": 6.19
+    },
+    {
+      "file": "hooks\\useStats.js",
+      "lines": 13,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 57.95,
+      "readabilityScore": 5.25
+    },
+    {
+      "file": "hooks\\useTodoApp.js",
+      "lines": 22,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 50.86,
+      "readabilityScore": 4.99
+    },
+    {
+      "file": "hooks\\useTodos.js",
+      "lines": 33,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 45.38,
+      "readabilityScore": 5.77
+    }
+  ]
+}

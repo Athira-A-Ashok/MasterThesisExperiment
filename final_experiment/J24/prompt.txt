@@ -1,0 +1,1 @@
+Build a React todo application for me. Must have features: add tasks, delete tasks, mark tasks complete. Show completed tasks differently. Use React hooks and keep code clean.

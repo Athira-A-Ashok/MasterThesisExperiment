@@ -1,0 +1,2 @@
+Currently I'm working on a React project and need a todo application. Users should be able to add new tasks, mark them complete with a strikethrough, and remove tasks. 
+And also use state management to manage it.

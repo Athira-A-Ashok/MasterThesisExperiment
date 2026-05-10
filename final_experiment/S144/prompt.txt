@@ -1,0 +1,13 @@
+Design and implement a Todo application using React (Vite).
+
+Focus on:
+
+Centralized state via useReducer
+Clear action-driven updates
+Stateless UI components where possible
+
+Tasks should follow a consistent schema (id, text, completed, createdAt). Handle validation at the form level before dispatching actions.
+
+Use a custom hook for localStorage persistence. Optimize rendering with memoization and avoid storing derived state.
+
+Include filtering logic and a footer summarizing pending tasks.

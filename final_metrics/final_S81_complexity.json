@@ -1,0 +1,24 @@
+{
+  "participant": "S81",
+  "filesAnalysed": 2,
+  "totalLOC": 108,
+  "cyclomatic_complexity": 4.5,
+  "maintainability_index": 39.3,
+  "readability_score": 7.72,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 78,
+      "cyclomaticComplexity": 6,
+      "maintainabilityIndex": 32.57,
+      "readabilityScore": 8.58
+    },
+    {
+      "file": "TodoItem.jsx",
+      "lines": 30,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 46.02,
+      "readabilityScore": 6.87
+    }
+  ]
+}

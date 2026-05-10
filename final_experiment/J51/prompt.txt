@@ -1,0 +1,1 @@
+I need a basic React todo list app. Users should be able to type a task, add it to the list, check it off when done, and delete it. Completed tasks should look different.

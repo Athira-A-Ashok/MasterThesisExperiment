@@ -1,0 +1,1 @@
+Build a Todo App in React where I can type a task and press enter or click Add to create it. Each task should have a checkbox to mark it done and also delete button to delete it. Style it nicely with Tailwind or plain CSS.

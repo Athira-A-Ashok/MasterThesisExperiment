@@ -1,0 +1,11 @@
+Develop a Todo list application using React with Vite environment.
+Allow users to input and store multiple tasks dynamically.
+Each task should be displayed in a list format immediately after creation.
+Include a delete icon to remove unwanted tasks.
+Add a toggle feature to mark tasks as done or undone.
+Visually differentiate completed tasks from pending ones.
+Use React hooks for state handling.
+Break UI into small components like input box, list, and task item.
+Ensure smooth rendering without page reload.
+
+This application should act as a simple productivity assistant where users can manage daily tasks efficiently. The interface should remain clean, responsive, and intuitive for quick interaction.

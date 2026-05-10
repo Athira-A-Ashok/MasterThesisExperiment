@@ -1,0 +1,26 @@
+Build a React todo application using Vite.Task input section:
+
+Large input field at the top with placeholder text "Add a new task..."
+User submits by pressing Enter key or clicking the Add button
+Whitespace only input should be trimmed and rejected
+Input clears automatically after successful task submission
+Task list section:
+
+Each task row shows a checkbox on the left side
+Task text displayed in the middle of the row
+Trash icon button on the right side to remove the task
+Completed tasks show strikethrough text and muted grey color
+Active tasks appear in normal dark text
+Bottom section:
+
+Counter at the bottom showing "X tasks remaining"
+Three filter buttons: All, Active, Done
+Button to remove all completed tasks at once, hidden when no completed tasks exist
+Empty list message shown when no tasks match the current filter
+Technical requirements:
+
+Task objects: { id: crypto.randomUUID(), text, completed }
+localStorage to save and restore tasks on page load
+Tailwind CSS for all styling
+Mobile friendly responsive layout
+Single App.jsx fileVite. 

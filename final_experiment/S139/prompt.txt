@@ -1,0 +1,14 @@
+Todo application using React and Vite.
+
+Features: Add / remove / toggle tasks
+Filtering and active count
+
+Architecture: UI components → rendering only
+Hooks → business logic
+Utils → helper functions
+
+Rules: No logic inside components
+No duplicated state
+Keep everything predictable
+
+Store: LocalStorage integration

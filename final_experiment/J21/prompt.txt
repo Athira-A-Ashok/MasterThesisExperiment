@@ -1,0 +1,1 @@
+I need a React todo application that allows users to add tasks, mark them as complete, and delete them. Completed tasks should show strikethrough. Use functional components and useState.

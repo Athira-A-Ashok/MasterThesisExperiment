@@ -1,0 +1,9 @@
+Create a Todo application using React + Vite with proper separation of concerns.
+
+State must be managed via useReducer. Do not mix logic inside components unnecessarily. Define clear action types for all mutations.
+
+Tasks should include id, text, completed status, and timestamp. Input should be validated (trim + reject empty). Persist state in localStorage via a reusable hook.
+
+Optimize rendering — memoize list items and avoid unnecessary recalculations using useMemo and useCallback.
+
+Include filtering and a task count footer.

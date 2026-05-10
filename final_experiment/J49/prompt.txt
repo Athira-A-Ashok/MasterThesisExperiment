@@ -1,0 +1,2 @@
+
+I am building a Todo List app using React and Vite. Please generate the React code for a simple todo application with the following features: an input field where users can type a new task, a button to add the task to the list, display the list of tasks below the input. Each task should have a checkbox to mark it as completed and a delete button to remove it. Completed tasks should appear with a line-through style. Use React functional components and the useState hook.

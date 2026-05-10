@@ -1,0 +1,1 @@
+Develop a Todo application in React JS. The UI should have a header 'My Todos', an add task section, and a list of tasks. Completed tasks should appear strike through.

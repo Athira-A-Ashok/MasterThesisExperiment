@@ -1,0 +1,3 @@
+Create a  Todo app using React and Vite where state is fully controlled by useReducer instead of multiple local states. Tasks should be normalized objects containing an auto-generated UUID, description text, completion flag, and timestamp. The application must support add, delete, and toggle operations via clearly defined action types. Persist data in localStorage and restore it on initial load.
+
+Optimize rendering by memoizing task components and stabilizing callbacks using useCallback. Derived task views like filtered lists should be computed using useMemo.

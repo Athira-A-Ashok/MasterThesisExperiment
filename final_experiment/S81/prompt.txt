@@ -1,0 +1,14 @@
+Create a modern, responsive Todo List application using React and Vite. Use functional components and React Hooks (useState, useEffect).
+​The app should include the following features:
+​Add Task: An input field and an 'Add' button to create new tasks.
+​List Tasks: Display tasks in a clean list format.
+​Delete Task: A button next to each task to remove it from the list.
+​Complete Task: A checkbox or toggle to mark a task as 'Completed', which should visually strike through the text.
+​Persistence: Use localStorage to ensure the list persists after a page refresh.
+​Styling Requirements:
+​Use Tailwind CSS for styling.
+​The design should be centered on the page with a clean, "Glassmorphism" or minimalist aesthetic.
+​Ensure the layout is mobile-responsive.
+​Code Structure:
+​Separate the logic into a main App.jsx and a reusable TodoItem.jsx component.
+​Provide the complete code for both files and the necessary Tailwind configuration.

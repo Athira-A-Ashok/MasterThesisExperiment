@@ -1,0 +1,5 @@
+Assume you are a react js using vite , create a todo list app using react (vite) , 
+I need features to customise my todo list , 
+I should also be able to add attachment of doc, audio, video and picture format.
+I should be able to sort the list based on date as well as title alphabetical
+Should have option to pin items on top and mark as important

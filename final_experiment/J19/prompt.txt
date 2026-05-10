@@ -1,0 +1,1 @@
+Create a todo list application in React. I need to manage tasks — add new ones, check them off when finished, and delete them. Use useState and keep the code beginner friendly.

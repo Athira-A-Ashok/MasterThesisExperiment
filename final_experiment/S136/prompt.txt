@@ -1,0 +1,15 @@
+React todo app (Vite setup)
+
+State layer: useReducer with pure reducer function.
+
+Task object: id, text, completed, createdAt
+
+UI layer:
+add task input
+task list
+delete + toggle actions
+
+Optimization: React.memo on list item
+useCallback for handlers
+useMemo for filtered view
+localStorage persistence + filters + task count

@@ -1,0 +1,12 @@
+:root {
+  --bg: #0f172a;
+  --text: #e2e8f0;
+  --accent: #38bdf8;
+}
+
+.container {
+  background: var(--bg);
+  color: var(--text);
+  padding: 2rem;
+  min-height: 100vh;
+}

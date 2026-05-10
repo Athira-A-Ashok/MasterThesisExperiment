@@ -1,0 +1,8 @@
+React todo app using Vite:
+The application is a task list that supports three operations. Creation, removal, and completion toggling. That is the complete scope.
+Each task is a four-field object: a UUID so it is reliably unique, the description text, a resolved boolean, and an ISO creation timestamp. That shape appears identically everywhere in the codebase.
+A reducer manages all mutations. Three action type constants . The function is pure — it cannot produce different output for the same input, and calling it affects nothing outside itself.
+A context provider distributes the state. A hook translates context into component-friendly function names. Components receive addTask, deleteTask, toggleTask. They do not receive dispatch.
+The entry form strips whitespace before validation. Failures go into the UI as text beneath the input. Successes trigger a dispatch followed by form cleanup and focus restoration.
+Row components are memoized against unnecessary re-renders. Their event props maintain stable identity across renders. The rendered collection is always computed from the source plus the current filter mode.
+Browser storage holds the task collection. A view selector and outstanding count sit in the interface. Full keyboard operability. Accessible annotations on interactive elements.

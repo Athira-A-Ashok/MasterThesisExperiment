@@ -1,0 +1,1 @@
+Help me build a React todo app using Vite. Simple requirements: text input for task name, add button, task list with delete and complete functionality. Make it look clean.

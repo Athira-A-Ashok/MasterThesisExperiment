@@ -1,0 +1,2 @@
+I want Todo application full code using react .
+- Need an input box to add the task and new task in different color and the task should be edited , also can mark it as completed and to delete the task. show confirmation box while deleting the task.

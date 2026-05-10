@@ -1,0 +1,16 @@
+I want a React Vite todo app that is properly structured with multiple files. Do not put everything in one file. Break the UI into separate focused components and keep all logic in a custom hook.
+Input at top adds tasks on Enter key or clicking Add, ignores empty submissions
+Task list below shows each task with checkbox, text, and delete button
+Completed tasks styled with strikethrough and grey color
+Filter controls at bottom for All, Active, Completed
+Counter showing how many tasks remain active
+Clear completed button appears when completed tasks exist
+Empty message when no tasks match current filter
+
+Code Structure - Custom hook encapsulates task array, filter state, and all handler functions
+Components receive everything as props and only render
+Separate CSS Module file for each component
+localStorage integrated inside the custom hook using useEffect
+Tasks are objects with unique id, text field, and completed boolean
+Responsive layout using Tailwind CSS
+Please generate all files completely

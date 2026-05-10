@@ -1,0 +1,29 @@
+Develop a Todo application using React 
+
+Core features:
+
+Add, delete, toggle tasks
+Filter tasks
+Show active count
+
+Accessibility requirements:
+
+Use semantic HTML elements
+Add proper aria-labels
+Ensure keyboard navigation works fully
+Manage focus after actions
+
+Code structure:
+
+Functional components
+Clean separation of concerns
+No unnecessary complexity
+
+UX:
+
+Clear visual states
+Readable contrast
+
+Output:
+
+Folder structure + full code

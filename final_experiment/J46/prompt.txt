@@ -1,0 +1,1 @@
+make a simple react todo app with vite. input box at top to type tasks, button to add them, list showing all tasks. each task should have a delete button. completed tasks should look different

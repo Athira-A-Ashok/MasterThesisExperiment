@@ -1,0 +1,45 @@
+{
+  "participant": "S102",
+  "filesAnalysed": 5,
+  "totalLOC": 159,
+  "cyclomatic_complexity": 2.8,
+  "maintainability_index": 49.56,
+  "readability_score": 5.71,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 80,
+      "cyclomaticComplexity": 6,
+      "maintainabilityIndex": 34.04,
+      "readabilityScore": 8.13
+    },
+    {
+      "file": "components\\TaskInput.jsx",
+      "lines": 25,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 48.39,
+      "readabilityScore": 5.76
+    },
+    {
+      "file": "components\\TaskItem.jsx",
+      "lines": 25,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 49.53,
+      "readabilityScore": 5.87
+    },
+    {
+      "file": "components\\TaskList.jsx",
+      "lines": 20,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 52.93,
+      "readabilityScore": 5.68
+    },
+    {
+      "file": "main.jsx",
+      "lines": 9,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 62.91,
+      "readabilityScore": 3.1
+    }
+  ]
+}

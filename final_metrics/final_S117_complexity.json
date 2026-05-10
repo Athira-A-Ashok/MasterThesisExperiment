@@ -1,0 +1,52 @@
+{
+  "participant": "S117",
+  "filesAnalysed": 6,
+  "totalLOC": 208,
+  "cyclomatic_complexity": 2.67,
+  "maintainability_index": 48.97,
+  "readability_score": 5.88,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 87,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 32.81,
+      "readabilityScore": 7.72
+    },
+    {
+      "file": "components\\TaskForm.jsx",
+      "lines": 25,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 49.15,
+      "readabilityScore": 5.03
+    },
+    {
+      "file": "components\\TaskItem.jsx",
+      "lines": 34,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 46.39,
+      "readabilityScore": 5.81
+    },
+    {
+      "file": "components\\TaskList.jsx",
+      "lines": 15,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 56.89,
+      "readabilityScore": 5.11
+    },
+    {
+      "file": "main.jsx",
+      "lines": 8,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 64.47,
+      "readabilityScore": 3.14
+    },
+    {
+      "file": "reducer.js",
+      "lines": 39,
+      "cyclomaticComplexity": 6,
+      "maintainabilityIndex": 44.08,
+      "readabilityScore": 8.46
+    }
+  ]
+}

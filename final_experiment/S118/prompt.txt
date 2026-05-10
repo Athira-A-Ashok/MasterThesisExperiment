@@ -1,0 +1,9 @@
+Create a React Vite todo app with proper animations — not just transitions added at the end.
+
+Tasks fade in when added
+Tasks slide out when deleted
+Smooth transition on completion toggle
+Hover and focus state transitions
+prefers-reduced-motion must be respected — disable all animations for users with that preference
+
+CSS Modules. React hooks. Semantic HTML. ARIA attributes.

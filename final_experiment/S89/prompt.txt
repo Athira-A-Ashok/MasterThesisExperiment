@@ -1,0 +1,8 @@
+Build a Todo List app in React using Vite. I want a clean modern single-page todo application. Write everything in one main App.jsx. Plain CSS only, no Tailwind or external libraries.
+Add todo by pressing Enter or clicking Add button
+Checkbox to mark complete with strikethrough text
+Delete button
+Show item count
+Filter tabs: All , Active, Completed
+Clear completed button
+Store the items in localStorage

@@ -1,0 +1,7 @@
+Develop a simple React Todo Application
+
+Features — add new todos, display list, mark completed, delete
+State Management — use useState, each todo has id, text, completed
+UI — minimal clean design, strikethrough for completed, buttons for Add/Complete/Delete
+localStorage persistence, organize into TodoList, TodoItem, TodoInput components
+React functional components, no external libraries

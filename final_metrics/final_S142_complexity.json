@@ -1,0 +1,94 @@
+{
+  "participant": "S142",
+  "filesAnalysed": 12,
+  "totalLOC": 193,
+  "cyclomatic_complexity": 2.08,
+  "maintainability_index": 59.68,
+  "readability_score": 5.25,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 4,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 73.05,
+      "readabilityScore": 3.78
+    },
+    {
+      "file": "components\\TodoApp.jsx",
+      "lines": 27,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 48.45,
+      "readabilityScore": 4.87
+    },
+    {
+      "file": "components\\TodoFooter.jsx",
+      "lines": 21,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 51.04,
+      "readabilityScore": 6.09
+    },
+    {
+      "file": "components\\TodoInput.jsx",
+      "lines": 28,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 46.98,
+      "readabilityScore": 6.54
+    },
+    {
+      "file": "components\\TodoItem.jsx",
+      "lines": 31,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 47.23,
+      "readabilityScore": 6.19
+    },
+    {
+      "file": "components\\TodoList.jsx",
+      "lines": 16,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 53.8,
+      "readabilityScore": 7.11
+    },
+    {
+      "file": "hooks\\useLocalStorage.js",
+      "lines": 6,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 66.47,
+      "readabilityScore": 5.1
+    },
+    {
+      "file": "hooks\\useTodosReducer.js",
+      "lines": 23,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 49.19,
+      "readabilityScore": 8.15
+    },
+    {
+      "file": "main.jsx",
+      "lines": 8,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 64.47,
+      "readabilityScore": 3.14
+    },
+    {
+      "file": "utils\\actionTypes.js",
+      "lines": 8,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 65.22,
+      "readabilityScore": 3.34
+    },
+    {
+      "file": "utils\\storage.js",
+      "lines": 0,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 99.87,
+      "readabilityScore": 0
+    },
+    {
+      "file": "utils\\todoReducer.js",
+      "lines": 21,
+      "cyclomaticComplexity": 7,
+      "maintainabilityIndex": 50.4,
+      "readabilityScore": 8.71
+    }
+  ]
+}

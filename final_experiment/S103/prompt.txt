@@ -1,0 +1,18 @@
+React todo app, Vite.
+Features:
+- Add task trim whitespace
+- Toggle complete → strikethrough
+- Delete task
+- Filter: All | Active | Completed
+- "X items left" counter
+- Clear completed button
+- store in localStorage
+
+Tech:
+- useReducer + Context
+- CSS Modules, no inline styles
+- React.memo on TodoItem
+- useCallback on handlers
+- Semantic HTML + ARIA
+- Full keyboard navigation
+Full implementation with folder structure.

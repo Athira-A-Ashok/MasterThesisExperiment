@@ -1,0 +1,7 @@
+Create a Todo application 
+Centralize all logic inside a single reducer function.
+Maintain a consistent task schema across all modules.
+Prevent invalid task creation using input sanitization.
+Render task list using optimized components.
+Compute derived filters dynamically instead of storing them.
+Store data locally and restore on initialization.

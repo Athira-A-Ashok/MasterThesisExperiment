@@ -1,0 +1,2 @@
+
+I am building a react todo app with vite. I need users to be able to add tasks by typing in an input and clicking a button, see the tasks in a list, mark tasks as completed using a checkbox, and delete tasks. Completed tasks should have strikethrough text. Please use functional components and useState hook for state management.

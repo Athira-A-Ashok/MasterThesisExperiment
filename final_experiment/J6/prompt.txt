@@ -1,0 +1,8 @@
+I’m learning React and using Vite.
+Can you help me build a simple Todo List app?
+I want users to:
+add tasks
+delete tasks
+mark tasks as completed
+It should show tasks in a list and completed tasks should have a line-through style.
+Please write the React code using functional components and hooks.

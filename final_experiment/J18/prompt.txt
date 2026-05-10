@@ -1,0 +1,1 @@
+ Please create a simple todo app for me using React and Vite. I need add task, delete task, and complete task features. Nothing too complicated, just clean and working code.

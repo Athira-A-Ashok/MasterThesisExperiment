@@ -1,0 +1,1 @@
+Create a React Todo List app using Vite. Include an input field to add new tasks, a list to display them, ability to mark tasks as completed with a checkbox, and a delete button for each task. Use useState hook.

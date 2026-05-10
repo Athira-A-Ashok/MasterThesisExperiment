@@ -1,0 +1,2 @@
+Create a react todo app with vite, i need to manage my daily tasks like add tasks check them off when task finished and delete when not needed anymore. 
+keep code simple and easy to understand

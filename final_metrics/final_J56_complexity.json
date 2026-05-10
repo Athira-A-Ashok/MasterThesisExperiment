@@ -1,0 +1,17 @@
+{
+  "participant": "J56",
+  "filesAnalysed": 1,
+  "totalLOC": 74,
+  "cyclomatic_complexity": 5,
+  "maintainability_index": 34.77,
+  "readability_score": 7.38,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 74,
+      "cyclomaticComplexity": 5,
+      "maintainabilityIndex": 34.77,
+      "readabilityScore": 7.38
+    }
+  ]
+}

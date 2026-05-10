@@ -1,0 +1,4 @@
+React todo app built with Vite.
+Use useReducer for state, split into proper components each with one clear job. CSS Modules for styling.
+Features needed are add tasks with validation, mark complete, delete, filter All/Active/Completed, active count, and localStorage with error handling. 
+The app must work entirely with keyboard. No mouse required. give ARIA labels.

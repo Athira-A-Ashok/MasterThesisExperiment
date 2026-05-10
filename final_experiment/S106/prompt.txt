@@ -1,0 +1,12 @@
+Implement a Todo app in React using Vite.
+
+Requirements
+useReducer for centralized state logic
+No direct mutation of state
+Tasks include id, text, completed, createdAt
+Input validation before dispatch
+LocalStorage persistence via custom hook
+
+UI should be broken into small components. Task items should be memoized. Derived data should not be stored — compute them using useMemo.
+
+Add filtering and task count display.

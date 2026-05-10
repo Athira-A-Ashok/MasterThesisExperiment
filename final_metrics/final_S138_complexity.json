@@ -1,0 +1,115 @@
+{
+  "participant": "S138",
+  "filesAnalysed": 15,
+  "totalLOC": 223,
+  "cyclomatic_complexity": 2,
+  "maintainability_index": 60.51,
+  "readability_score": 5.46,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 4,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 72.43,
+      "readabilityScore": 4.03
+    },
+    {
+      "file": "domain\\state\\actions.js",
+      "lines": 7,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 67.07,
+      "readabilityScore": 3.83
+    },
+    {
+      "file": "domain\\state\\initialState.js",
+      "lines": 5,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 71.07,
+      "readabilityScore": 3.66
+    },
+    {
+      "file": "domain\\state\\reducer.js",
+      "lines": 36,
+      "cyclomaticComplexity": 7,
+      "maintainabilityIndex": 44.46,
+      "readabilityScore": 9.09
+    },
+    {
+      "file": "domain\\state\\selectors.js",
+      "lines": 12,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 58.22,
+      "readabilityScore": 5.9
+    },
+    {
+      "file": "domain\\ui\\components\\TodoApp.jsx",
+      "lines": 32,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 45.14,
+      "readabilityScore": 5.57
+    },
+    {
+      "file": "domain\\ui\\components\\TodoFilters.jsx",
+      "lines": 18,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 53.24,
+      "readabilityScore": 6.27
+    },
+    {
+      "file": "domain\\ui\\components\\TodoInput.jsx",
+      "lines": 34,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 44.55,
+      "readabilityScore": 8.25
+    },
+    {
+      "file": "domain\\ui\\components\\TodoItem.jsx",
+      "lines": 29,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 48.19,
+      "readabilityScore": 5.59
+    },
+    {
+      "file": "domain\\ui\\components\\TodoList.jsx",
+      "lines": 10,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 61.16,
+      "readabilityScore": 5.35
+    },
+    {
+      "file": "domain\\ui\\components\\TodoStats.jsx",
+      "lines": 7,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 66.35,
+      "readabilityScore": 4
+    },
+    {
+      "file": "domain\\utils\\storage.js",
+      "lines": 14,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 56.8,
+      "readabilityScore": 5.66
+    },
+    {
+      "file": "domain\\utils\\uuid.js",
+      "lines": 1,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 88.41,
+      "readabilityScore": 5.7
+    },
+    {
+      "file": "domain\\utils\\validation.js",
+      "lines": 6,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 66.03,
+      "readabilityScore": 5.92
+    },
+    {
+      "file": "main.jsx",
+      "lines": 8,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 64.47,
+      "readabilityScore": 3.14
+    }
+  ]
+}

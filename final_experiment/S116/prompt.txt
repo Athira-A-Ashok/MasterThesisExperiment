@@ -1,0 +1,5 @@
+Develop a clean and maintainable Todo app using React and Vite where the entire task state is managed using a reducer pattern. Avoid multiple useState hooks for task data and instead keep everything centralized in a single reducer.
+
+Tasks should follow a consistent structure with an auto-generated UUID, text content, completion flag, and timestamp. The application should support filtering (All, Active, Completed) without storing derived state. Instead, compute filtered results dynamically using useMemo.
+
+Persist tasks in localStorage using a reusable custom hook so that data will be there when page reloads.

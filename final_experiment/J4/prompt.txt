@@ -1,0 +1,5 @@
+Create a simple Todo List application using React with Vite.
+The app should allow users to add tasks, delete tasks, and mark tasks as completed.
+Each task should appear in a list with a checkbox for completion and a delete button.
+When a task is completed it should show a strikethrough style.
+Please provide the React code for this.

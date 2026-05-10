@@ -1,0 +1,80 @@
+{
+  "participant": "S123",
+  "filesAnalysed": 10,
+  "totalLOC": 169,
+  "cyclomatic_complexity": 3.3,
+  "maintainability_index": 55.97,
+  "readability_score": 6.46,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 4,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 73.05,
+      "readabilityScore": 3.78
+    },
+    {
+      "file": "components\\TodoApp.jsx",
+      "lines": 31,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 46.55,
+      "readabilityScore": 5.14
+    },
+    {
+      "file": "components\\TodoItem.jsx",
+      "lines": 26,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 48.72,
+      "readabilityScore": 6.03
+    },
+    {
+      "file": "hooks\\useDarkMode.js",
+      "lines": 11,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 59.06,
+      "readabilityScore": 6.39
+    },
+    {
+      "file": "hooks\\useFilter.js",
+      "lines": 13,
+      "cyclomaticComplexity": 8,
+      "maintainabilityIndex": 55.93,
+      "readabilityScore": 9.25
+    },
+    {
+      "file": "hooks\\useLocalStorage.js",
+      "lines": 11,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 58.38,
+      "readabilityScore": 5.99
+    },
+    {
+      "file": "hooks\\useSearch.js",
+      "lines": 10,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 59.53,
+      "readabilityScore": 5.43
+    },
+    {
+      "file": "hooks\\useTodos.js",
+      "lines": 11,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 58.79,
+      "readabilityScore": 5.84
+    },
+    {
+      "file": "reducers\\todoReducer.js",
+      "lines": 40,
+      "cyclomaticComplexity": 12,
+      "maintainabilityIndex": 41.75,
+      "readabilityScore": 11.15
+    },
+    {
+      "file": "utils\\exportFile.js",
+      "lines": 12,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 57.95,
+      "readabilityScore": 5.62
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.container {
+  max-width: 500px;
+  margin: 40px auto;
+  font-family: system-ui;
+}
+
+.title {
+  text-align: center;
+  font-size: 3rem;
+  color: #333;
+}

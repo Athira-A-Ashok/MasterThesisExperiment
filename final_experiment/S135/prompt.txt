@@ -1,0 +1,16 @@
+Build a React todo app using Vite.
+
+Please structure it like a real production feature:
+
+State layer → useReducer
+Data model → task object (id, text, completed, createdAt)
+API layer → custom hook wrapping Context
+
+Features:
+
+add task
+delete task
+mark complete
+
+Also:
+memoized task components, stable callbacks, filtered list via useMemo.

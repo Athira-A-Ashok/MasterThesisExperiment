@@ -1,0 +1,25 @@
+Build a classic Todo List app in React using Vite.
+
+I want a clean, modern single-page todo application with these exact features:
+
+- Add a new todo by typing text into an input field and pressing Enter or clicking an "Add" button
+- Show all todos in a list below the input
+- Each todo item should display:
+  - The task text
+  - A checkbox to mark it as completed (when checked, show strikethrough on the text)
+  - A "Delete" button (trash icon would be nice) to remove that todo
+- Show a counter like "3 items left" (only counting incomplete todos)
+- Have three filter buttons/tabs at the bottom: "All" | "Active" | "Completed"
+  - Clicking them should filter the visible list accordingly
+- Bonus: a "Clear completed" button that removes all finished todos
+
+Technical requirements and style I prefer:
+- Use functional components only + modern React hooks (useState, useEffect if needed)
+- Use Vite + React project structure (assume it's already created with `npm create vite@latest`)
+- Write everything in one main App.jsx file for simplicity (no separate components yet — I may ask to refactor later)
+- Use plain CSS (no Tailwind, no styled-components, no external libraries) — keep it simple and readable
+- Make it look decent: centered layout, nice spacing, subtle hover effects, different color for completed items
+- Persist the todos in localStorage so they survive page refresh
+- Make sure the code is clean
+
+Please give me the complete code for src/App.jsx (and any other files I need to change like main.jsx or index.css if relevant).

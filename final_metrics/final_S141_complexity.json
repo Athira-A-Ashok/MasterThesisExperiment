@@ -1,0 +1,94 @@
+{
+  "participant": "S141",
+  "filesAnalysed": 12,
+  "totalLOC": 232,
+  "cyclomatic_complexity": 2.42,
+  "maintainability_index": 54.9,
+  "readability_score": 6.16,
+  "files": [
+    {
+      "file": "app\\App.jsx",
+      "lines": 35,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 43.69,
+      "readabilityScore": 7.13
+    },
+    {
+      "file": "app\\ErrorBoundary.jsx",
+      "lines": 24,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 50.45,
+      "readabilityScore": 7.38
+    },
+    {
+      "file": "components\\Counter.jsx",
+      "lines": 3,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 75.39,
+      "readabilityScore": 4.83
+    },
+    {
+      "file": "components\\Filters.jsx",
+      "lines": 16,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 55.75,
+      "readabilityScore": 6.55
+    },
+    {
+      "file": "components\\TodoInput.jsx",
+      "lines": 38,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 42.99,
+      "readabilityScore": 8.02
+    },
+    {
+      "file": "components\\TodoItem.jsx",
+      "lines": 20,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 52.23,
+      "readabilityScore": 6.33
+    },
+    {
+      "file": "components\\TodoList.jsx",
+      "lines": 15,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 56.58,
+      "readabilityScore": 4.97
+    },
+    {
+      "file": "hooks\\useTodos.js",
+      "lines": 22,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 49.52,
+      "readabilityScore": 6.24
+    },
+    {
+      "file": "main.jsx",
+      "lines": 9,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 62.55,
+      "readabilityScore": 4.21
+    },
+    {
+      "file": "utils\\constants.js",
+      "lines": 6,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 68.82,
+      "readabilityScore": 3.35
+    },
+    {
+      "file": "utils\\storage.js",
+      "lines": 23,
+      "cyclomaticComplexity": 5,
+      "maintainabilityIndex": 50.08,
+      "readabilityScore": 7.39
+    },
+    {
+      "file": "utils\\validation.js",
+      "lines": 21,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 50.7,
+      "readabilityScore": 7.55
+    }
+  ]
+}

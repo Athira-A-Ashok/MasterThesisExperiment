@@ -1,0 +1,1 @@
+Build a React and Vite todo application. Needed features: text input for task, add button, task list display, delete button per task, and checkbox to toggle completion status.

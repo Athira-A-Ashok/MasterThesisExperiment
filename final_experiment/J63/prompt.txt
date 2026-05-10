@@ -1,0 +1,7 @@
+Build a todo app in react vite. need these features
+
+add task using input
+show all tasks in list
+toggle complete for each task
+delete task
+simple and clean design

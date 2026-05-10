@@ -1,0 +1,10 @@
+Create a responsive Todo app with React and Vite.
+
+Users should be able to add tasks, edit existing tasks, mark as complete, and delete tasks
+Filter tasks by All, Completed, and Pending
+Each task should have a title, status showing completed or pending, and created date
+Include a task counter showing remaining active tasks
+Clear all completed option in the UI
+Use flexbox or grid for the overall layout
+Add animations for adding and removing tasks
+Output should include styled CSS, functional components

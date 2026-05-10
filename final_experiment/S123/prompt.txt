@@ -1,0 +1,12 @@
+
+I need a React Vite todo app for my portfolio.
+
+Full task management with priority, category, due date, notes
+Multi-criteria filtering and debounced search
+Drag and drop reordering
+Dark mode
+Export to text file
+Batch operations — select multiple, delete selected, mark selected complete
+localStorage
+
+Context and useReducer, custom hooks per feature, CSS Modules with CSS custom properties. Smooth animations respecting prefers-reduced-motion. Semantic HTML, ARIA, mobile-first.

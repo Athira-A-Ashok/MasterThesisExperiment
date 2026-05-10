@@ -1,0 +1,1 @@
+I want to build a todo application using React and Vite and in that application i need to add, delete, and complete the task. Give a simple application.

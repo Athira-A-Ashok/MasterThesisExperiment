@@ -1,0 +1,6 @@
+export const ACTIONS = {
+  ADD: "ADD",
+  TOGGLE: "TOGGLE",
+  DELETE: "DELETE",
+  CLEAR_COMPLETED: "CLEAR_COMPLETED",
+};

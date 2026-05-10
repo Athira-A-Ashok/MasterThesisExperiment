@@ -1,0 +1,10 @@
+React todo app with Vite. Advanced hook composition.
+Hooks to build from scratch:
+
+useLocalStorage — generic with error handling
+useTodos — built on useLocalStorage
+useFilter — filter state and computed results
+useSearch — debounced with useRef
+useStats — computed statistics
+
+Components only call these hooks and render.

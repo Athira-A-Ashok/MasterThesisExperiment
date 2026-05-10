@@ -1,0 +1,24 @@
+Build a simple React Todo App with the following requirements:
+
+1. Core Features:
+   - Add new todos with a text input field.
+   - Display a list of todos.
+   - Mark todos as completed (toggle).
+   - Delete todos from the list.
+
+2. State Management:
+   - Use React hooks (useState) for managing todos.
+   - Each todo should have an id, text, and completed status.
+
+3. UI:
+   - Minimal, clean design.
+   - Show completed todos with strikethrough styling.
+   - Include buttons for "Add", "Complete/Uncomplete", and "Delete".
+
+4. Extra:
+   - Persist todos in localStorage so they remain after page reload.
+   - Organize code into components: TodoList, TodoItem, and TodoInput.
+
+5. Tech Stack:
+   - React (functional components).
+   - No external libraries except React

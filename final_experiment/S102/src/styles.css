@@ -1,0 +1,116 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Center app */
+body {
+  background: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  padding: 40px 16px;
+}
+
+/* Container */
+.app-container {
+  width: 100%;
+  max-width: 500px;
+  background: white;
+  padding: 24px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Input */
+.task-input {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.task-input input {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.task-input button {
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+/* Filters */
+.filters {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.filters button {
+  flex: 1;
+  padding: 8px;
+  cursor: pointer;
+  border: none;
+  background: #eee;
+}
+
+.filters button.active {
+  background: #333;
+  color: white;
+}
+
+/* Task list */
+.task-list {
+  list-style: none;
+  margin-bottom: 15px;
+}
+
+/* Task item */
+.task-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.task-item span {
+  flex: 1;
+  margin-left: 10px;
+}
+
+/* Completed task */
+.completed {
+  text-decoration: line-through;
+  color: #888;
+}
+
+/* Footer */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+.footer button {
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  color: #007bff;
+}
+
+/* Empty state */
+.empty {
+  text-align: center;
+  color: #777;
+  margin: 10px 0;
+}

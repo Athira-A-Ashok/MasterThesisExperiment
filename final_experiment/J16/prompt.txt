@@ -1,0 +1,1 @@
+Build a todo application using React and Vite for me. I want users to add tasks by pressing Enter or clicking a button. Each task should have a complete checkbox and a delete button.

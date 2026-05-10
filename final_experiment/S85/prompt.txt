@@ -1,0 +1,26 @@
+Please build a complete, ready-to-run Todo List application using React + Vite. The app must be a single App.jsx component with everything inside it—no extra pages or routing needed.
+Core requirements (must be implemented exactly):
+Add a task
+A prominent input field at the top with placeholder “What needs to be done?”
+User can add the task by clicking an “Add” button or pressing Enter.
+Empty input should be ignored.
+Delete a task
+Each task has a trash icon/button on the right that removes it immediately.
+Mark a task as Completed
+Each task has a checkbox on the left.
+When checked, the task text gets a line-through and muted color to show it’s done.
+The state should persist correctly on re-renders.
+Technical & UX expectations:
+Use functional components and React hooks only (useState for the tasks array).
+Each task should be an object: { id: string, text: string, completed: boolean }. Use crypto.randomUUID() for IDs.
+Tasks array should be stored in component state (no localStorage required unless you think it adds value).
+Clean, modern UI using Tailwind CSS (include the Tailwind setup instructions in your response).
+Responsive design that looks good on both desktop and mobile.
+Nice visual polish: subtle hover effects, focus states, and a clean card-like container.
+Show a helpful empty state message (“No tasks yet — add one above!”) when the list is empty.
+Optional but appreciated: show a small counter at the bottom like “X tasks left”.
+Please return:
+The full code for src/App.tsx (or .jsx)
+The exact tailwind.config.js and index.css changes needed
+The commands to run after npm create vite@latest so I can copy-paste and have a working app in under 2 minutes
+Make the code clean, well-commented, and follow current React best practices (no deprecated patterns). I want to be able to copy it straight into a fresh Vite project and run npm run dev immediately.

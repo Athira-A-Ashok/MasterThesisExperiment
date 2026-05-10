@@ -1,0 +1,2 @@
+Create a todo list app in React with Vite. I want to add tasks, delete tasks, and mark them as completed. 
+Completed tasks should look different from pending task and also please give different ui for pending task and also for completed task

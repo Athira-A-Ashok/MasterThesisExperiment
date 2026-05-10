@@ -1,0 +1,1 @@
+I need a todo list app in React using Vite. Basic needs: add task, show task list, complete task toggle, delete task. Make it simple and clean with basic CSS styling.

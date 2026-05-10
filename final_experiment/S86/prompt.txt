@@ -1,0 +1,9 @@
+Create a Todo app with Plain JavaScript, Vite, React, one single App.jsx file please.
+Basically I need:
+A nice big input at the top where I can type a task and hit Enter or click Add.
+The list below with checkboxes so I can mark stuff done (line-through when checked).
+A little trash button on each task to delete it.
+Make it look modern and clean with Tailwind.
+Throw in an empty state and maybe a counter at the bottom so it feels polished.
+Keep it simple, no localStorage or fancy stuff unless you think it’s a nice touch.
+Just drop the full working code + the exact Tailwind setup so I can copy-paste and run it right away.

@@ -1,0 +1,1 @@
+I am building a todo app in React with Vite. Can you generate the code? I need to add, delete, and mark tasks as done. Each task should have buttons for these actions.

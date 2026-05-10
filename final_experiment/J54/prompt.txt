@@ -1,0 +1,2 @@
+
+I want a React and Vite todo app. Let me add tasks by typing and pressing Enter or clicking Add. I should be able to check off completed tasks and delete any task from the list.

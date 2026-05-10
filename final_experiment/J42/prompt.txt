@@ -1,0 +1,2 @@
+Can you create a simple React todo app using Vite.
+I want to add tasks, display them in a list, delete them individually, and mark them as done with a visual style change.

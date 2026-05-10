@@ -1,0 +1,17 @@
+{
+  "participant": "S87",
+  "filesAnalysed": 1,
+  "totalLOC": 141,
+  "cyclomatic_complexity": 9,
+  "maintainability_index": 25.14,
+  "readability_score": 10.73,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 141,
+      "cyclomaticComplexity": 9,
+      "maintainabilityIndex": 25.14,
+      "readabilityScore": 10.73
+    }
+  ]
+}

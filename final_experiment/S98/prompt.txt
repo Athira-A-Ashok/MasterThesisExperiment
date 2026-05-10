@@ -1,0 +1,12 @@
+Todo application using React + Vite.
+Add a large input field at the top with placeholder - Add a task….
+Display tasks in a list below the input with:
+Checkbox to mark complete
+Task text in the middle
+Trash icon/button to delete
+Completed tasks should show:
+Grey/muted styling
+Use React state to manage tasks and store them in localstorage.
+Show an empty state message when no tasks exist.
+Display a footer counterUse Tailwind CSS for a clean, modern, responsive UI (mobile + desktop).
+show message after delete and adding the task or item

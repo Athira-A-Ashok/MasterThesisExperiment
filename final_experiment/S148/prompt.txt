@@ -1,0 +1,7 @@
+Create a Todo application designed as if it will be integrated into a production-grade system.
+
+Use useReducer with well-structured action types
+Maintain immutable state updates across all operations
+Keep business logic separated from UI components
+
+The system should be robust enough to scale into a larger application without requiring major refactoring. Every task operation should be predictable and testable. The architecture should support future enhancements such as user-specific task lists or backend integration without breaking existing logic.

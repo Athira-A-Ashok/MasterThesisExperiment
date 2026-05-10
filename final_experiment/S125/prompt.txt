@@ -1,0 +1,11 @@
+Build a Todo application using React with Vite as the build tool.
+The UI should allow users to create new tasks using an input field.
+Each task must appear in a list immediately after submission.
+Users should be able to remove any task from the list permanently.
+Include a feature to toggle task completion status.
+Completed tasks should be visually distinct from active ones.
+Maintain state using React hooks like useState.
+Ensure clean component separation for input, list, and item.
+Focus on simple, readable code structure.
+
+The application should behave like a task tracker where users can quickly add daily tasks, mark them as finished, or delete them when no longer needed. The design should be clean and responsive, ensuring smooth interaction between components.

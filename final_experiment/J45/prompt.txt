@@ -1,0 +1,2 @@
+
+simple todo app in react vite. add task from input, delete task, mark as done. basic css is fine

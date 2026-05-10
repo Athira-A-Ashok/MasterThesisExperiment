@@ -1,0 +1,8 @@
+ React using vite todo app. Here is the complete requirement:
+Three things users do. One reducer. Four fields per task. Those are the constraints everything else is built around.
+The reducer is a pure function. It maps incoming state and an action to outgoing state. Three action type strings define all recognized operations. Tasks carry a UUID, their text, a done boolean, and a creation timestamp.
+A provider at the root. A hook above components. The hook is what components call. They receive functions and data back. The reducer is invisible to them.
+Entry form: whitespace removal before validation, inline error on empty result, dispatch and field reset and focus return on valid input.
+Row component: memoized. Its callback props are stable references. The rendered collection is computed from the full task array and whichever filter the user has active.
+Browser storage: reads on startup, writes on collection changes.
+Interface: three view modes, unresolved count, full keyboard, labeled interactive elements.

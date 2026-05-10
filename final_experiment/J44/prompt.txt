@@ -1,0 +1,1 @@
+Create a React and Vite todo app for me. Key features: add task through input, show task list, each task has a checkbox to mark complete and a button to delete. Keep it simple.

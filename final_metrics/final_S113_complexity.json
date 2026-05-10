@@ -1,0 +1,59 @@
+{
+  "participant": "S113",
+  "filesAnalysed": 7,
+  "totalLOC": 189,
+  "cyclomatic_complexity": 2.43,
+  "maintainability_index": 51.13,
+  "readability_score": 6.21,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 58,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 38.53,
+      "readabilityScore": 6.71
+    },
+    {
+      "file": "components\\TaskForm.jsx",
+      "lines": 22,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 50.3,
+      "readabilityScore": 5.05
+    },
+    {
+      "file": "components\\TaskItem.jsx",
+      "lines": 20,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 51.57,
+      "readabilityScore": 6.18
+    },
+    {
+      "file": "components\\TaskList.jsx",
+      "lines": 28,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 47.88,
+      "readabilityScore": 6.36
+    },
+    {
+      "file": "hooks\\useLocalStorageReducer.js",
+      "lines": 17,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 53.52,
+      "readabilityScore": 7.36
+    },
+    {
+      "file": "reducer.js",
+      "lines": 40,
+      "cyclomaticComplexity": 6,
+      "maintainabilityIndex": 43.54,
+      "readabilityScore": 8.29
+    },
+    {
+      "file": "utils\\uuid.js",
+      "lines": 4,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 72.6,
+      "readabilityScore": 3.53
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Create a Todo app using React with Vite, including basic components for adding, deleting and completing tasks.

@@ -1,0 +1,2 @@
+
+Create a todo list in React with Vite. Features: add a new task using input and button, list all tasks, mark each task as complete with a checkbox, and delete individual tasks.

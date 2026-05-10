@@ -1,0 +1,22 @@
+Create a React Vite todo application split into separate component files.  File structure:src/
+App.jsx
+components/
+TodoInput.jsx
+TodoList.jsx
+TodoItem.jsx
+TodoFilter.jsx
+TodoFooter.jsx
+Features:
+Add tasks via input on Enter or button click, reject empty input
+Task list showing checkbox, text, and delete button per row
+Completed tasks styled with strikethrough and grey color
+Filter tabs for All, Active, Completed
+Footer with active task counter
+Clear completed button conditional on completed tasks existing
+Empty state message when list has no tasks
+Technical:Custom useTodos hook managing all state logic
+Components receive only props they need
+CSS Modules for scoped styling
+localStorage persistence
+Tasks as { id: crypto.randomUUID(), text, completed }
+Responsive Tailwind CSS layout

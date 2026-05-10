@@ -1,0 +1,19 @@
+Build me a React using Vite todo app without typescript. Complete requirements.
+What users can do in todo application: 
+
+Add tasks via input field with Enter key or button click
+Ignore completely empty or whitespace-only input
+Mark tasks complete and incomplete using checkbox
+Delete individual tasks using trash icon
+Filter visible tasks by All, Active, or Completed
+Clear all completed tasks with one click
+See count of remaining active tasks at all times
+
+Each task stored as { id: crypto.randomUUID(), text, completed }
+All tasks saved to localStorage on every change
+Tasks loaded from localStorage on app startup
+
+Tailwind CSS throughout
+Completed tasks: strikethrough text and grey color
+Empty state message when list has no tasks
+Responsive layout working on mobile and desktop

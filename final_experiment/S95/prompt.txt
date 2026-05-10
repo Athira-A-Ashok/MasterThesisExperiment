@@ -1,0 +1,23 @@
+Use React functional component with useState for state management.
+
+Store tasks - { id: crypto.randomUUID(), text, completed }
+Add a new task using an input field with placeholder:
+User should be able to add tasks by:
+Pressing the Enter key
+Clicking an Add button
+Prevent adding empty or whitespace-only tasks.
+Each task should display in a list with:
+A checkbox on the left to mark completion
+The task text in the center
+A trash/delete icon on the right to remove the task
+When a task is marked completed:
+Apply line-through styling
+Change text color to light grey
+Additional Features: Show a incomplete item count:
+Display an empty state message when there are no tasks 
+Styling:
+Use Tailwind CSS only for styling
+Keep the responsive UI clean, minimal, and modern
+Ensure proper spacing, alignment, and visual clarity
+The application must be fully responsive
+Works smoothly on desktop screens and also in mobile devices

@@ -1,0 +1,1 @@
+Make a React todo list application. Requirements: task input form, task list display, checkboxes for completion, delete buttons, and give some design or ui for completed tasks. Keep code clean.

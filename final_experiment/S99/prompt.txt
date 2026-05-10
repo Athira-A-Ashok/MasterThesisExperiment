@@ -1,0 +1,12 @@
+I need a production-ready React Vite todo app- no TypeScript, jsx files only.
+
+Add task using controlled input with Enter key plus button
+Toggle task completion with visual feedback showing line-through and muted text
+Delete task using a trash icon button
+Tasks stored in useState as array of objects with id, text, and completed
+Fully responsive and accessible with proper labels, keyboard navigation, and focus states
+Tailwind CSS for styling with modern minimal design
+Empty state illustration and X tasks left counter
+localStorage persistence throughout
+
+give the full src/App.jsx code, required Tailwind configuration with tailwind.config.js and index.css.

@@ -1,0 +1,16 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.delete {
+  background: none;
+  border: none;
+  cursor: pointer;
+}

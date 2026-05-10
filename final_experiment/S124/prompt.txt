@@ -1,0 +1,8 @@
+Build a React + Vite based task management application with strict separation of concerns.
+The application must be divided into multiple components such as input handler, task renderer, filter controller, and footer summary.
+Centralize all task-related logic in a single state management layer instead of scattering logic across components.
+Each task should follow a consistent schema with id, text, completion status, and timestamp.
+Ensure tasks can be added, marked complete, deleted, and filtered dynamically.
+Implement derived filtering logic instead of storing filtered lists in state.
+Persist tasks in browser storage and restore them automatically on reload.
+Ensure UI updates instantly reflect state changes without manual refresh.

@@ -1,0 +1,23 @@
+I want to build a clean and scalable Todo application using React with Vite.
+
+Add new tasks via input field (Enter key + button support, trim input, ignore empty)
+Display tasks in a list with:
+Toggle completion (checkbox → visually mark as completed)
+Remove task option per item
+Show remaining active task count dynamically
+Provide filters: All / Active / Completed
+Include "clear completed" action when applicable
+
+Use useReducer for centralized state logic (avoid scattered state)
+Define clear action types and ensure reducer purity
+Persist data using localStorage with proper hydration on load
+Split into modular components (input, list, item, filters, footer)
+Avoid prop drilling where possible (Context optional but preferred)
+
+Performance + UX: Memoize list items to prevent unnecessary re-renders
+Keep handlers stable using useCallback
+Maintain input focus after adding tasks
+Handle empty states gracefully
+
+Output:Provide folder structure
+Generate complete code for all relevant files

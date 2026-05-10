@@ -1,0 +1,2 @@
+Build me a React todo application. I need an input box to type tasks and a button to add them. 
+Each task should have a delete button and a remove icon to delete the task.

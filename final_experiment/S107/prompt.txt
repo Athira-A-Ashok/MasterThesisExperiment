@@ -1,0 +1,8 @@
+Create a React Vite Todo application
+Manage state using useReducer instead of multiple useState calls
+Validate input strictly -trim empty values before adding tasks
+Implement reusable components with clear responsibility separation
+Use useCallback for all event handlers to avoid re-renders
+Derive filtered task list using useMemo based on active filter
+Store tasks in localStorage and keep the data on app load
+Include accessible buttons with aria-labels and proper semantics

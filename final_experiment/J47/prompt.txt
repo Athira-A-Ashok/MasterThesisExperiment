@@ -1,0 +1,1 @@
+Build a React Vite todo application. Required: text input to add tasks, task list with all added tasks, each task should have a complete toggle and delete button. Basic styling

@@ -1,0 +1,38 @@
+{
+  "participant": "S91",
+  "filesAnalysed": 4,
+  "totalLOC": 189,
+  "cyclomatic_complexity": 3.25,
+  "maintainability_index": 49.69,
+  "readability_score": 6.49,
+  "files": [
+    {
+      "file": "app\\store.js",
+      "lines": 7,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 65.99,
+      "readabilityScore": 4.71
+    },
+    {
+      "file": "App.jsx",
+      "lines": 142,
+      "cyclomaticComplexity": 9,
+      "maintainabilityIndex": 26.4,
+      "readabilityScore": 10.15
+    },
+    {
+      "file": "features\\todoSlice.js",
+      "lines": 29,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 46.74,
+      "readabilityScore": 7
+    },
+    {
+      "file": "main.jsx",
+      "lines": 11,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 59.63,
+      "readabilityScore": 4.1
+    }
+  ]
+}

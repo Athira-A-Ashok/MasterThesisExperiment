@@ -1,0 +1,1 @@
+Build a simple todo app in React using Vite. Features: add new tasks, mark them complete with a visual change like strikethrough, and delete tasks. Use functional components.

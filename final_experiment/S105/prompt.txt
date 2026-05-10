@@ -1,0 +1,16 @@
+Need a Todo app built with React + Vite.
+
+State handled via useReducer
+Actions: add, delete, toggle
+Task shape: id, text, completed, createdAt
+Components:
+Input form
+List
+Item
+Validation: no empty or whitespace tasks
+Store tasks in localStorage (custom hook preferred)
+Add filters (All / Active / Completed)
+Footer should show remaining count
+Basic accessibility (aria labels, keyboard support)
+
+Keep it clean and readable.

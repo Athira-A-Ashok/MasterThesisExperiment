@@ -1,0 +1,17 @@
+Build a React Vite todo application in clearly defined phases so I know exactly what I am getting:
+Phase 1 — build this now and build it properly:
+
+Add task with Enter or button, validate empty input
+Toggle complete with strikethrough visual
+Delete individual tasks
+Filter tabs for All, Active, and Completed
+Remaining task count display
+localStorage persistence
+
+Phase 2 — structure the code so these can be added later without refactoring:
+
+Inline task editing
+Priority level assignment
+Keyword search bar
+
+useReducer, Context, custom hooks, CSS Modules. ARIA labels. Keyboard navigation throughout.

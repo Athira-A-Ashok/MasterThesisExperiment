@@ -1,0 +1,11 @@
+Build a React + Vite todo application
+Use useReducer for centralized state management
+add, delete and toggle task
+Task model: id, text, completed, createdAt
+Context API for state distribution
+Custom hook to abstract dispatch logic
+Validate input (trim + reject empty values)
+Persist state in localStorage
+Add filters (All / Active / Completed)
+Show remaining task count in footer
+Optimize with React.memo + useMemo

@@ -1,0 +1,16 @@
+Build a simple and user-friendly Todo Application using React. The app should allow users to add, edit, delete, and mark tasks as completed. Each task should have a title and optional description. The UI should be clean and responsive, with proper state management using React hooks (useState/useEffect).
+
+Features to include:
+        •        Add new tasks
+        •        Edit existing tasks
+        •        Delete tasks
+        •        Mark tasks as completed/incomplete
+        •        Filter tasks (All, Completed, Pending)
+        •        Persist data using local storage
+
+Optional enhancements:
+        •        Add due dates for tasks
+        •        Priority levels (High, Medium, Low)
+        •        Dark mode toggle
+
+The application should follow good coding practices, component-based architecture, and maintain readability and scalability.

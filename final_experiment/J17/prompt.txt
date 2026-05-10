@@ -1,0 +1,1 @@
+I want a React Vite todo app with the following: add task with input field, show tasks in a list, delete task button, checkbox to mark as done, and strikethrough for completed tasks.

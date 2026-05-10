@@ -1,0 +1,19 @@
+I have to do todo application project so could you build a Todo application using React + Vite without typescript
+Use useReducer as the single source of truth for all task state management.
+Define explicit action types: ADD_TASK, DELETE_TASK, TOGGLE_TASK.
+Ensure the reducer is pure and handles only state transitions without side effects.
+Each task object should follow a strict schema:
+for id use randomid
+text: string
+completed: boolean
+createdAt: timestamp
+Split UI into modular components:
+TaskForm for input handling
+TaskList for rendering tasks
+TaskItem for individual task rendering
+Wrap TaskItem with React.memo to avoid unnecessary re-renders.
+Validate input by trimming whitespace and blocking empty submissions before dispatch.
+Implement filtering logic (All / Active / Completed) using useMemo, not stored state.
+Use useCallback for all event handlers (add, delete, toggle).
+Store tasks in localStorage
+Ensure accessibility with proper aria-label, keyboard navigation

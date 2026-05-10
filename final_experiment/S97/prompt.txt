@@ -1,0 +1,10 @@
+todo app, react + vite, single App.jsx file
+
+input at top, add on enter or button
+list with checkbox and trash button
+strikethrough on completed
+filter tabs all/active/completed
+items left counter
+clear completed button
+
+tailwind for styling, modern and clean, card layout, give me complete App.jsx and exact tailwind setup

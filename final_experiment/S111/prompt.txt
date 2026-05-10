@@ -1,0 +1,3 @@
+Build a Todo application using React and Vite where the state is managed using useReducer instead of multiple useState hooks.
+The reducer should handle adding, deleting, and toggling tasks, and each task should follow a consistent structure with id, text, completed status, and createdAt timestamp. 
+The UI should be split into clean components like TaskForm, TaskList, and TaskItem, and the TaskItem component should be optimized using React.memo to avoid unnecessary re-renders.

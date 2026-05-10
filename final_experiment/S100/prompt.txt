@@ -1,0 +1,19 @@
+Build me a React Vite todo app
+Folder structure I want:
+src/ components
+TodoInput.jsx
+TodoList.jsx
+TodoItem.jsx
+TodoFilter.jsx
+context/TodoContext.jsx
+hooks/useTodos.js
+App.jsx
+
+Add tasks with empty input check
+Toggle completion status
+Delete individual tasks
+Add Filter
+Show active task count
+Clear completed button
+
+Context and useReducer for state management. useTodos hook is the only way components can access state ,no direct context in components. CSS Modules for styling. React.memo on TodoItem. use ARIA labels.

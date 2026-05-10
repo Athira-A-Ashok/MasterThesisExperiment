@@ -1,0 +1,1 @@
+can you create react todo list app using vite? i want to add new tasks, show in list, mark as complete with strikethrough and delete them. use useState

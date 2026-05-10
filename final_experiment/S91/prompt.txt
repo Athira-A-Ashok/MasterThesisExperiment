@@ -1,0 +1,7 @@
+can you make a react todo app with vite. need the following working properly
+use functional components and also use redux to manage the states.
+add tasks from input, enter key or button
+mark done with checkbox, strikethrough when checked
+delete tasks
+Give todo filter
+show how many items are left.

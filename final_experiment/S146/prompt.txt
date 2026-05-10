@@ -1,0 +1,6 @@
+Use React + Vite to build a modular Todo application without using typescript
+Maintain global task state using useReducer.
+Define a clear reducer with actions for creating, deleting, and toggling tasks.
+Structure task object consistently across the app.
+
+Add performance optimizations using memoized components and stable callbacks. Filtering logic should be computed rather than stored. Ensure accessibility with proper ARIA labels and support for keyboard navigation across all interactive elements.

@@ -1,0 +1,10 @@
+Implement a React Vite todo app:
+
+Add task — Enter or button, validate empty
+Toggle complete — strikethrough
+Delete task
+Filter All / Active / Completed
+Items left counter
+localStorage, useReducer, CSS Modules
+Inline editing, priority levels, search, categories.
+Give folder structure and full code

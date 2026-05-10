@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.app {
+  width: 400px;
+}
+
+input {
+  width: 70%;
+  padding: 8px;
+}
+
+button {
+  margin-left: 5px;
+  padding: 8px;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 8px 0;
+}

@@ -1,0 +1,22 @@
+Build a Todo app using React + Vite
+Reducer must be pure and predictable
+State must be centralized using useReducer
+No prop drilling allowed
+
+Each task should be an immutable object with a strict schema.
+
+Validation must be handled before dispatch:
+
+Trim input
+Reject empty values
+Provide clear UI feedback
+
+Persistence must be implemented using a reusable abstraction over localStorage.
+
+Rendering performance must be optimized:
+
+React.memo for task items
+useCallback for handlers
+useMemo for derived task lists
+
+The final structure should be maintainable, scalable, and readable

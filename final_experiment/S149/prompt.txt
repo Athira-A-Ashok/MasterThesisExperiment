@@ -1,0 +1,32 @@
+
+Build a React and Vite todo application with complete multi-file architecture. Generate all files with full working code.
+File list:
+
+src/App.jsx
+src/components/TaskWriter.jsx
+src/components/TaskStream.jsx
+src/components/StreamCard.jsx
+src/components/StreamFilter.jsx
+src/components/StreamMeta.jsx
+src/hooks/useStream.js
+src/hooks/useStreamStorage.js
+
+Features:
+
+TaskWriter input with "Add to stream" placeholder adds on Enter or button
+Empty and whitespace input ignored
+TaskStream renders filtered cards
+Each StreamCard has checkbox, task text, trash button
+Done StreamCard has strikethrough and grey color
+StreamFilter shows All, Active, Completed options
+StreamMeta shows active count and clear completed button
+Empty state when stream has no cards
+
+Requirements:
+
+useStream manages task state and current filter
+useStreamStorage manages localStorage operations
+Components purely presentational
+CSS Modules for styles
+Tasks: { id: crypto.randomUUID(), text, completed }
+Responsive Tailwind CSS layout

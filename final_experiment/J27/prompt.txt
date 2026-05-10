@@ -1,0 +1,1 @@
+I want a React todo list with Vite. Requirements: input field to type a task, submit button to add it, list to display tasks, checkboxes to complete tasks, and delete buttons. Use useState hook.

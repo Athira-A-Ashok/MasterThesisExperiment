@@ -1,0 +1,52 @@
+{
+  "participant": "S134",
+  "filesAnalysed": 6,
+  "totalLOC": 117,
+  "cyclomatic_complexity": 1.83,
+  "maintainability_index": 53.57,
+  "readability_score": 5.52,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 17,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 53.96,
+      "readabilityScore": 5.95
+    },
+    {
+      "file": "components\\TodoInput.jsx",
+      "lines": 20,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 51.67,
+      "readabilityScore": 5.61
+    },
+    {
+      "file": "components\\TodoItem.jsx",
+      "lines": 27,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 48.06,
+      "readabilityScore": 7.01
+    },
+    {
+      "file": "components\\TodoList.jsx",
+      "lines": 15,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 56.79,
+      "readabilityScore": 5.19
+    },
+    {
+      "file": "hooks\\useTodos.js",
+      "lines": 30,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 46.45,
+      "readabilityScore": 6.2
+    },
+    {
+      "file": "main.jsx",
+      "lines": 8,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 64.47,
+      "readabilityScore": 3.14
+    }
+  ]
+}

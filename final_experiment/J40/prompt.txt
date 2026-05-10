@@ -1,0 +1,1 @@
+Create a React todo application with basic task management. Users can add tasks with an input, mark them completed, and remove unwanted tasks. Use useState and Vite setup.

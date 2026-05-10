@@ -1,0 +1,5 @@
+Create a React todo application.
+Give a clean code. useReducer with pure reducer and typed action creators. 
+React Context for state, no prop drilling. Custom useLocalStorage hook. 
+CSS Modules with CSS custom properties. React.memo on list items, useCallback on all handlers. 
+Features are task CRUD, filter, search, active count, localStorage. PropTypes on every component. Consistent naming throughout.

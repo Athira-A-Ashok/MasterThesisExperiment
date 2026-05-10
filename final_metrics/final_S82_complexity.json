@@ -1,0 +1,59 @@
+{
+  "participant": "S82",
+  "filesAnalysed": 7,
+  "totalLOC": 180,
+  "cyclomatic_complexity": 3.29,
+  "maintainability_index": 52.03,
+  "readability_score": 6.78,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 57,
+      "cyclomaticComplexity": 9,
+      "maintainabilityIndex": 37.06,
+      "readabilityScore": 10.23
+    },
+    {
+      "file": "components\\DarkModeToggle.jsx",
+      "lines": 7,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 64.88,
+      "readabilityScore": 5.41
+    },
+    {
+      "file": "components\\FilterBar.jsx",
+      "lines": 9,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 59.12,
+      "readabilityScore": 8.73
+    },
+    {
+      "file": "components\\TodoForm.jsx",
+      "lines": 41,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 42.02,
+      "readabilityScore": 6.36
+    },
+    {
+      "file": "components\\TodoItem.jsx",
+      "lines": 43,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 41.53,
+      "readabilityScore": 7.87
+    },
+    {
+      "file": "components\\TodoList.jsx",
+      "lines": 14,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 56.72,
+      "readabilityScore": 5.73
+    },
+    {
+      "file": "main.jsx",
+      "lines": 9,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 62.91,
+      "readabilityScore": 3.1
+    }
+  ]
+}

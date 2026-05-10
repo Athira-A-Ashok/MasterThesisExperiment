@@ -1,0 +1,8 @@
+Create a Todo app where performance is treated as a first-class requirement rather than an afterthought.
+
+Wrap task items using React.memo
+Use useCallback for all event handlers
+Derive filtered task lists using useMemo
+Store state using useReducer instead of multiple useState hooks
+
+The system should avoid unnecessary re-renders when toggling or deleting a single task. Each task must be immutable and updated through reducer actions only. The filtering logic should not create redundant state but instead compute results dynamically.

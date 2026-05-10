@@ -1,0 +1,2 @@
+
+i want a simple react todo application and also use react hooks, where i can type task in input box click Add to put it in list, then check it off when done and also delete it when i want. 

@@ -1,0 +1,11 @@
+Build a React Todo application with Vite.
+Add tasks via input field.
+Show list of tasks dynamically.
+Include delete option.
+Allow marking completion.
+Style completed tasks differently.
+Use state hooks.
+Break into components.
+Keep UI clean.
+
+Designed for fast and easy task tracking.

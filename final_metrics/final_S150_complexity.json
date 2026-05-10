@@ -1,0 +1,66 @@
+{
+  "participant": "S150",
+  "filesAnalysed": 8,
+  "totalLOC": 210,
+  "cyclomatic_complexity": 3.13,
+  "maintainability_index": 50.93,
+  "readability_score": 6.36,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 39,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 42.22,
+      "readabilityScore": 7.25
+    },
+    {
+      "file": "components\\TaskFooter.jsx",
+      "lines": 39,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 43.64,
+      "readabilityScore": 7.07
+    },
+    {
+      "file": "components\\TaskInput.jsx",
+      "lines": 39,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 42.22,
+      "readabilityScore": 7.25
+    },
+    {
+      "file": "components\\TaskItem.jsx",
+      "lines": 28,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 48.12,
+      "readabilityScore": 5.83
+    },
+    {
+      "file": "components\\TaskList.jsx",
+      "lines": 17,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 54.31,
+      "readabilityScore": 5.74
+    },
+    {
+      "file": "hooks\\useLocalStorage.js",
+      "lines": 6,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 67.68,
+      "readabilityScore": 4.93
+    },
+    {
+      "file": "main.jsx",
+      "lines": 9,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 62.91,
+      "readabilityScore": 3.09
+    },
+    {
+      "file": "reducer.js",
+      "lines": 33,
+      "cyclomaticComplexity": 8,
+      "maintainabilityIndex": 46.37,
+      "readabilityScore": 9.7
+    }
+  ]
+}

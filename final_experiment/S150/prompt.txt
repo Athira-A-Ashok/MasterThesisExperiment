@@ -1,0 +1,30 @@
+Create a React Vite todo application please. All requirements below.
+Task input:
+
+Placeholder "Whats on your agenda?"
+Submit by Enter or Add button
+Ignore empty and whitespace input
+Auto clear input after submission
+
+Task list:
+
+Checkbox on left side per row
+Task text in center per row
+Trash icon on right side per row
+Checked tasks: strikethrough and grey
+Unchecked tasks: normal appearance
+
+Bottom area:
+
+Shows remaining task count
+Filter by All, Active, Completed
+Clear completed shown conditionally
+Empty state when nothing to show
+
+Styling and data:
+
+Task: { id: crypto.randomUUID(), text, completed }
+localStorage saves all data
+Tailwind CSS for everything
+Responsive for mobile
+Card layout App.jsx

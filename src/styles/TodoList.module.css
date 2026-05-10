@@ -1,0 +1,12 @@
+.list {
+  margin-top: 15px;
+}
+
+.clear {
+  margin-top: 10px;
+  background: red;
+  color: white;
+  padding: 8px;
+  border: none;
+  cursor: pointer;
+}

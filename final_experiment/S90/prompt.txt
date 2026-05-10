@@ -1,0 +1,4 @@
+Create a modern To-Do List web application using React and Vite. The application should allow users to add new tasks, edit tasks, mark tasks as completed, delete tasks, and filter tasks by All, Completed, and Pending.
+Use a clean responsive UI, store tasks in localStorage, and include smooth animations for adding and removing tasks.
+Each task should have a title, status, and created date. Output should include styled CSS, functional components.
+Use redux 

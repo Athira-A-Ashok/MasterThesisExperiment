@@ -1,0 +1,1 @@
+I need to create a todo app in react js using vite with create or add, delete and notifier after completing the task...need an optimized code to create this application with good quality code. needed full code.

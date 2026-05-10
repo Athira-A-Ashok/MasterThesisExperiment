@@ -1,0 +1,31 @@
+{
+  "participant": "S83",
+  "filesAnalysed": 3,
+  "totalLOC": 80,
+  "cyclomatic_complexity": 2.67,
+  "maintainability_index": 52.23,
+  "readability_score": 5.69,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 56,
+      "cyclomaticComplexity": 4,
+      "maintainabilityIndex": 38.06,
+      "readabilityScore": 7.01
+    },
+    {
+      "file": "components\\TaskItem.jsx",
+      "lines": 16,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 54.15,
+      "readabilityScore": 6.93
+    },
+    {
+      "file": "main.jsx",
+      "lines": 8,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 64.47,
+      "readabilityScore": 3.14
+    }
+  ]
+}

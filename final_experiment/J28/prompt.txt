@@ -1,0 +1,1 @@
+Can you make a todo application using React js and Vite? I need to add tasks, mark them complete with a checkbox, and remove them. Completed tasks should look visually different.

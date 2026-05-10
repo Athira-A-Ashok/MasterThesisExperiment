@@ -1,0 +1,38 @@
+{
+  "participant": "S92",
+  "filesAnalysed": 4,
+  "totalLOC": 96,
+  "cyclomatic_complexity": 2.75,
+  "maintainability_index": 50.56,
+  "readability_score": 6.19,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 42,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 43.04,
+      "readabilityScore": 6.46
+    },
+    {
+      "file": "components\\TodoInput.jsx",
+      "lines": 20,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 51.18,
+      "readabilityScore": 5.69
+    },
+    {
+      "file": "components\\TodoItem.jsx",
+      "lines": 18,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 52.81,
+      "readabilityScore": 6.75
+    },
+    {
+      "file": "components\\TodoList.jsx",
+      "lines": 16,
+      "cyclomaticComplexity": 2,
+      "maintainabilityIndex": 55.22,
+      "readabilityScore": 5.85
+    }
+  ]
+}

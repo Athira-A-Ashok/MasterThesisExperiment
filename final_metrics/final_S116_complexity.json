@@ -1,0 +1,31 @@
+{
+  "participant": "S116",
+  "filesAnalysed": 3,
+  "totalLOC": 165,
+  "cyclomatic_complexity": 5.33,
+  "maintainability_index": 59.38,
+  "readability_score": 6.29,
+  "files": [
+    {
+      "file": "App.jsx",
+      "lines": 146,
+      "cyclomaticComplexity": 12,
+      "maintainabilityIndex": 24.72,
+      "readabilityScore": 12.08
+    },
+    {
+      "file": "hooks\\useLocalStorage.js",
+      "lines": 19,
+      "cyclomaticComplexity": 3,
+      "maintainabilityIndex": 53.56,
+      "readabilityScore": 6.78
+    },
+    {
+      "file": "main.jsx",
+      "lines": 0,
+      "cyclomaticComplexity": 1,
+      "maintainabilityIndex": 99.87,
+      "readabilityScore": 0
+    }
+  ]
+}

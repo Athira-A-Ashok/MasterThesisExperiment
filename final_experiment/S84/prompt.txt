@@ -1,0 +1,15 @@
+I need a Todo List application built using React with Vite.
+
+The app should cover the basics: adding a task, deleting a task, and toggling its completed state with a clear visual indication. Keep the UI simple and clean.
+
+Use functional components and React hooks. Managing state with useState, but feel free to switch to useReducer if it makes the logic cleaner as the app grows. Each task should be an object with id, text, and completed.
+
+Make sure to handle common edge cases like empty input and duplicate submissions if relevant. Use controlled inputs and ensure proper key handling when rendering lists.
+
+Persist the tasks in localStorage so the data survives a page refresh.
+
+Keep the codebase organized — split into small, reusable components and avoid unnecessary complexity, but structure it in a way that it would be easy to extend later (e.g., adding filters or editing tasks).
+
+Focus on readability and maintainability. The code should feel production-ready.
+
+Also include the basic project structure for a fresh Vite + React setup

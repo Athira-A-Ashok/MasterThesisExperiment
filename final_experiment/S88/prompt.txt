@@ -1,0 +1,13 @@
+I need a modern Todo List application built with React using Vite.
+
+Add input + Enter key - trim whitespace, prevent empty adds
+Checkbox to toggle completed → strikethrough and give muted text when done
+Delete button per each item
+Show Active items count ("X items left")
+Filters: All / Active / Completed
+"Clear completed" button (only visible when there are completed items)
+useReducer + useContext for state management
+Split into: TodoInput.jsx, TodoItem.jsx (memoized), TodoList.jsx, TodoFilters.jsx, TodoContext.jsx
+CSS Modules for styling, localStorage persistence with error handling
+
+Generate complete code 

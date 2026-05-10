@@ -1,0 +1,1 @@
+I want to create a React todo list app. Users should be able to type a task in an input box, click add, see the task appear in a list, and either complete it or delete it.

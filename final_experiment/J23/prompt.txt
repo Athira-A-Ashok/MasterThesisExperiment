@@ -1,0 +1,1 @@
+Create a simple React and Vite todo app. I want an input at the top to add new tasks. Below it should show all tasks with a checkbox to complete them and a button to delete them.

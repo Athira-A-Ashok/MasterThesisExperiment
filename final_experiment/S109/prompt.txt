@@ -1,0 +1,7 @@
+Build a Todo application using React + Vite with a focus on clean architecture.
+
+Use useReducer to manage all task-related state
+Add actions like add, delete, toggle
+Task model should include id, text, completed, createdAt
+
+Keep components modular with TaskForm, TaskList, and TaskItem. The TaskItem should be wrapped in React.memo to avoid unnecessary re-renders. Implement input validation that rejects empty or whitespace-only tasks before dispatch. Use useMemo for filtering tasks based on selected filter state. Add basic accessibility like aria-labels and keyboard.

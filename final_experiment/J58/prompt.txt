@@ -1,0 +1,1 @@
+Build a React todo application. I want an input field to add tasks, a list showing all tasks with a  checkbox and delete button for each. Keep the styling minimal and clean.

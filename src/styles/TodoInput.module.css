@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.input {
+  flex: 1;
+  padding: 0.5rem;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+}
+
+.hidden {
+  position: absolute;
+  left: -9999px;
+}

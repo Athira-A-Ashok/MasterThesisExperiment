@@ -1,0 +1,21 @@
+I want to build a simple Todo List application using React with Vite. Please generate all the necessary React components and code files.
+
+The app should include the following features:
+
+1. A text input field where the user can type a new task.
+2. A button to add the typed task to the list.
+3. A list that displays all added tasks.
+4. Each task should have:
+   - A "Delete" button that removes the task from the list.
+   - A "Complete" button (or checkbox) that marks the task as completed.
+5. Completed tasks should visually look different (for example: strikethrough or faded).
+6. Use React hooks like useState for state management.
+7. Keep the code clean, simple, and easy for a beginner to understand.
+
+Please generate:
+- The main App component
+- Any child components needed (e.g., TaskItem)
+- Basic CSS styling
+- The final folder structure for a Vite + React project
+
+Make sure the code runs immediately in a fresh Vite React setup.

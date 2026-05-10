@@ -1,0 +1,9 @@
+Please create a complete single-file Todo List app using React and Vite in JavaScript.
+The app should have:
+A centered card layout
+Header with title and task count
+Input field + Add button
+List of todos with checkbox, task text, and delete button
+Completed tasks crossed out
+Data persisted in localStorage
+Clean modern styling with Tailwind CSS

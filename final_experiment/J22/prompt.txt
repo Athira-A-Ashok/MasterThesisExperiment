@@ -1,0 +1,1 @@
+Make me a todo list app in React with Vite. Users should be able to type a task, add it to the list, mark it done with a checkbox, and delete it when not needed.

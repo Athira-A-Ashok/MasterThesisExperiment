@@ -1,0 +1,22 @@
+Create a modern To-Do List web application using React .
+The application should allow users to:
+Add new tasks
+Edit tasks
+Mark tasks as completed
+Delete tasks
+Filter tasks (All, Completed, Pending)
+Requirements:
+Use a clean and responsive UI design
+Store tasks using Local Storage so tasks remain after page refresh
+Each task should have:
+Task title
+Status (completed / pending)
+Created date
+Include a task counter showing remaining tasks
+Provide a clear all completed tasks option
+Use modern styling with flexbox or grid
+Add smooth animations for adding and removing tasks
+The final output should include:
+Styled CSS
+Functional JavaScript
+Comments explaining important parts of the code.
