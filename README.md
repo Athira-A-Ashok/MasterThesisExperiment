@@ -153,15 +153,15 @@ Running all cells reproduces the following:
 
 | Output | Description |
 |---|---|
-| Descriptive statistics tables | Mean, SD, min, max for all variables by group |
-| Bar charts (Figures 3.1–3.7) | Group comparisons for all prompt and code quality variables |
-| Welch's t-test results (Table 3.2) | t-statistic and p-value for all 10 variables |
+| Descriptive statistics | Mean, SD, min, max for all variables by group |
+| Bar charts | Group comparisons for all prompt and code quality variables |
+| Welch's t-test results | t-statistic and p-value for all 10 variables |
 | Cohen's d effect sizes | Practical significance for all 10 variables |
 | Shapiro-Wilk normality tests | Normality check for all variables in both groups |
-| Correlation heatmap (Figure 3.8) | Pairwise Pearson correlations across all 9 continuous variables |
-| K-means PCA scatter plots (Figure 3.9) | Cluster assignments vs. actual experience level side by side |
-| Elbow method chart (Figure 3.10) | Inertia values for k=2 to k=7 |
-| Efficiency metric chart (Figure 3.11) | Maintainability index per second of AI response time |
+| Correlation heatmap | Pairwise Pearson correlations across all 9 continuous variables |
+| K-means PCA scatter plots | Cluster assignments vs. actual experience level side by side |
+| Elbow method chart | Inertia values for k=2 to k=7 |
+| Efficiency metric chart | Maintainability index per second of AI response time |
 
 ---
 
