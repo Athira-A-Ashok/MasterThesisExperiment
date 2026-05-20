@@ -158,7 +158,7 @@ Running all cells reproduces the following:
 | Welch's t-test results | t-statistic and p-value for all 10 variables |
 | Cohen's d effect sizes | Practical significance for all 10 variables |
 | Shapiro-Wilk normality tests | Normality check for all variables in both groups |
-| Correlation heatmap | Pairwise Pearson correlations across all 9 continuous variables |
+| Correlation heatmap | Correlations across all 9 variables |
 | K-means PCA scatter plots | Cluster assignments vs. actual experience level side by side |
 | Elbow method chart | Inertia values for k=2 to k=7 |
 | Efficiency metric chart | Maintainability index per second of AI response time |
@@ -175,7 +175,7 @@ Running all cells reproduces the following:
 | @vitejs/plugin-react | React plugin for Vite | 5.1.2 |
 | Visual Studio Code | Development and evaluation environment | 1.117.0 |
 | ChatGPT | AI code generation (web interface) | chat.openai.com |
-| Python | Statistical analysis language | Python 3 (Google Colab) |
+| Python | Statistical analysis | Python 3 (Google Colab) |
 
 ---
 
